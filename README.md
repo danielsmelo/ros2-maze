@@ -3,7 +3,8 @@
 Robotics simulation with ros 2 and gazebo
 
 Adapted from AutomaticAddison.com
-Thanks AutomaticAddison
+
+Thanks AutomaticAddison!!!
 
 https://www.ros.org/
 
